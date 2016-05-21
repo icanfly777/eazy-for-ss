@@ -20,10 +20,18 @@ Profiles in /etc/ocserv/
 
 When you change the profiles,restart the vpn server.
 
+
 /etc/init.d/ocserv restart
+
 You can get help
 
+
 bash ocservauto.sh h
+
+
+
+
+
 LICENCE
 
 Ocservauto For Debian Copyright (C) liyangyijie released under GNU GPLv2
