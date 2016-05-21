@@ -6,11 +6,17 @@ Eazy-For-SS is a Tools and Profiles Collection,which may help you circumvent the
 USAGE
 
 apt-get update
+
 apt-get upgrade
+
 apt-get install wget
+
 wget http://git.io/p9r8 --no-check-certificate -O ocservauto.sh
+
 bash ocservauto.sh
+
 Profiles in /etc/ocserv/
+
 
 When you change the profiles,restart the vpn server.
 
